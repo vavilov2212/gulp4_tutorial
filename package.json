@@ -1,0 +1,22 @@
+{
+  "name": "gulp4_tutorial",
+  "version": "1.0.0",
+  "description": "Basic gulp4 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vavilov2212/gulp4_tutorial.git"
+  },
+  "author": "Roman Vavilov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vavilov2212/gulp4_tutorial/issues"
+  },
+  "homepage": "https://github.com/vavilov2212/gulp4_tutorial#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
