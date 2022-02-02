@@ -54,7 +54,7 @@ function buildStyles() {
 
 function buildHtml() {
   return src('src/html/**/*.html')
-    .pipe(dest('dist/html/'))
+    .pipe(dest('dist/'))
     .pipe(browserSync.stream())
 };
 
